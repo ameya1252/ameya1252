@@ -1,7 +1,7 @@
-👋 Hi, I’m Ameya Deshmukh
-👀 I’m interested in Robotics and Computer Vision
-🌱 I’m currently a 3rd year Computer Science major
-📫 How to reach me: ameyaudeshmukh@gmail.com
+<ul>👋 Hi, I’m Ameya Deshmukh</ul>
+<ul>👀 I’m interested in Robotics and Computer Vision</ul>
+<ul>🌱 I’m currently a 3rd year Computer Science major</ul>
+<ul>📫 How to reach me: ameyaudeshmukh@gmail.com</ul>
 
 <!---
 ameya1252/ameya1252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
