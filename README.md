@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ameya Deshmukh</h1>
 <h3 align="center">A passionate Computer Scientist</h3>
 
+<br>
+
 - 🔭 I’m currently working on **Heart Infarct Region Detection using Computer Vision**
 
 - 🌱 I’m currently learning **SwiftUI**
