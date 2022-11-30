@@ -1,5 +1,5 @@
 <ul>👋 Hi, I’m Ameya Deshmukh</ul>
-<ul>👀 I’m interested in Robotics and Computer Vision</ul>
+<ul>👀 I’m interested in Deep Learning and Computer Vision</ul>
 <ul>🌱 I’m currently a 3rd year Computer Science major</ul>
 <ul>📫 How to reach me: ameyaudeshmukh@gmail.com</ul>
 
