@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ameya Deshmukh</h1>
-<h3 align="center">A passionate Computer Scientist</h3>
+<h3 align="center">A Passionate Computer Scientist!</h3>
 
 <br>
 
