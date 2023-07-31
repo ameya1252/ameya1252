@@ -3,17 +3,17 @@
 
 <br>
 
-- 🔭 I’m currently working on **Heart Infarct Region Detection using Computer Vision**
+- 🔭 I’m currently working on **Ultrasound System Software, Medical Imaging & Sound Speed Estimation**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Applications of NeRF (Zip-NeRF)**
 
-- 💬 Ask me about **Python, Deep Learning, Compute Vision, Robotics**
+- 💬 Ask me about **Bioinformatiocs, Deep Learning, Compute Vision, Robotics**
 
 - 📫 How to reach me **ameyaudeshmukh@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/5f3zkxkb](https://tinyurl.com/5f3zkxkb)
 
-- ⚡ Fun fact **I have traveled to more than 10 countries!**
+- ⚡ Fun fact **I am a soccer player, dancer, musician, painter and traveler**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
