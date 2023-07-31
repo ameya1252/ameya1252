@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://tinyurl.com/5f3zkxkb](https://tinyurl.com/5f3zkxkb)
 
-- ⚡ Fun fact **I am a soccer player, dancer, musician, painter and traveler**
+- ⚡ Fun fact **I am a soccer player, dancer, musician, painter and traveler!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
