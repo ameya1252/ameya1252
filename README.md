@@ -7,6 +7,5 @@
 </p>
 
 <p align="left">
-  <span style="font-weight: bold; margin-right: 10px;">Profile Views:</span>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&color=green" alt="Profile views" />
 </p>
