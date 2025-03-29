@@ -76,7 +76,7 @@
   <a href="mailto:ameyaudeshmukh@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
-  <a href="https://calendly.com/your-link">
+  <a href="https://calendly.com/ameyaudeshmukh/30min">
     <img src="https://img.shields.io/badge/Schedule_Call-008080?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Schedule a Call"/>
   </a>
 </div>
