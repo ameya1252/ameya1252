@@ -7,12 +7,6 @@
 
 ---
 
-## 🚀 Quick Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameya1252&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📚 Education
 
 | **University of Southern California** | **University of Cincinnati** |
