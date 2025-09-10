@@ -42,26 +42,6 @@
 
 ---
 
-## 🔥 Highlight Projects
-
-<details>
-<summary><b>Distributed Real-Time Video Analytics Engine</b> (Python/C++/AWS)</summary>
-  
-- 🚀 GPU-accelerated pipeline with 60% latency reduction
-- 🌐 Kubernetes-managed system processing 1000+ streams
-- ⚡ 50ms anomaly detection via WebSocket API
-</details>
-
-<details>
-<summary><b>LLM Code Review Assistant</b> (PyTorch/Azure/Docker)</summary>
-
-- 🤖 Fine-tuned CodeLlama-7B with 92% bug detection
-- 🐳 Dockerized microservice reducing review cycles by 40%
-- ⚡ 70% inference latency reduction via model quantization
-</details>
-
----
-
 ## 🏆 Career Highlights
 
 - **70% Integration Time Reduction** at Stanford University - Dahl Laboratory
