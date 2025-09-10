@@ -1,18 +1,9 @@
-# Hi, I'm Ameya Deshmukh 👋
+# Hi, I'm Ameya Deshmukh
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameya1252)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ameya1252)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameyaudeshmukh@gmail.com)
 
-**AI & Distributed Systems Engineer** | Building Scalable Intelligent Systems ⚡ | Ex - Stanford University | Ex - Procter & Gamble
-
----
-
-## 📚 Education
-
-| **University of Southern California** | **University of Cincinnati** |
-| --- | --- |
-| M.S. Computer Science - AI Specialization | B.S. Computer Science - Summa Cum Laude |
-| _Relevant Coursework:_<br>• Deep Learning<br>• Distributed Systems<br>• Analysis of Algorithms (TA)<br>• Machine Learning<br> | _Awards:_<br>• Mantei Mae Award<br>• National Co-op Ambassador |
+**AI & Distributed Systems Engineer** | Ex - Stanford University | Ex - Procter & Gamble | Ex-IBM
 
 ---
 
