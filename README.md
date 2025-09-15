@@ -35,9 +35,9 @@
 
 ## 🏆 Career Highlights
 
-- **70% Integration Time Reduction** at Stanford University - Dahl Laboratory
-- **$120M Revenue Impact** through ML Forecasting at P&G
-- **10k+ Engineering Hours Saved** via GPU Optimization
+- **70% Integration Time Reduction** at **Stanford University** - Dahl Laboratory
+- **$120M Revenue Impact** through ML Forecasting at **P&G**
+- **10k+ Engineering Hours Saved** via GPU Optimization at **IBM**
 
 ---
 
